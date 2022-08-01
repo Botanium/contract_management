@@ -1,6 +1,6 @@
 ## Contract Management
 
-Managing Contracts for Businesses (App By Fwrat.com)
+Managing Contracts for Businesses 
 
 #### License
 
